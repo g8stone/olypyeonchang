@@ -1,0 +1,44 @@
+title: Pyeongchang Winter Olympics
+subhead: Stars to watch
+
+[tabs]
+image: alpine.png
+props.name: Alpine skiing
+props.player1: 1 Mikaela Shiffrin (USA)
+props.player2: 2 Lindsey Vonn (USA)
+props.player3: 3 Kjetil Jansrud (Norway)
+props.player4: 4 Marcel Hirscher (Austria)
+props.color: #6b1abc
+
+image: figure-skate.png
+props.name: Figure skating
+props.player1: 1 Yuzuru Hanyu (Japan)
+props.player2: 2 Nathan Chen (USA)
+props.player3: 3 Evgenia Medvedeva (Russia)
+props.player4: 4 Ryom Tae-Ok and Kim Ju-Sik (North Korea)
+props.color: #6b1abc
+
+image: snowboard.png
+props.name: Snowboard
+props.player1: Chloe Kim (USA)
+props.color: #6b1abc
+
+image: biathlon.png
+props.name: Biathlon
+props.player1: 1 Martin Fourcade (France)
+props.player2: 2 Johannes Thingnes Boe (Norway)
+props.color: #6b1abc
+
+image: shorttrack.png
+props.name: Short track speed skating
+props.player1: Viktor Ahn (Russia)
+props.color: #6b1abc
+
+
+[]
+
+sources: Source: ATP
+
+lastUpdate.key: Last update:
+lastUpdate.value: 01/10/2018 16:30:00 (HK)
+lang: en
